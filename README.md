@@ -9,7 +9,7 @@ Me chamo Diego Olinek, tenho 21 anos e sou natural de Santa Catarina. Atualmente
         <img 
             alt="LinkedIn" 
             title="Dê uma olhada no meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-blue?style=for-the-badge&logoColor=white&logo=linkedindiego"
+            src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-blue?style=for-the-badge&logoColor=white"
         />
     </a>
     <a href="https://devdiego.com.br">
