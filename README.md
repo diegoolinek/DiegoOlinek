@@ -1,6 +1,10 @@
-# 🧑🏻‍💻 Diego Olinek
+<img 
+    alt="Header" 
+    title="Header Diego Olinek" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=011627&text=Diego%20Olinek&section=header&textBg=false&fontColor=fff&reversal=true&animation=fadeIn&descSize=20&desc=Full-Stack%20Developer&descAlign=50&descAlignY=55&fontAlignY=35"
+/>
 
-**`Desenvolvedor Full-Stack`**
+# 🧑🏻‍💻 Quem sou eu?
 
 Me chamo Diego Olinek, tenho 21 anos e sou natural de Santa Catarina. Atualmente, estou cursando Sistemas de Informação na UDESC. Sou um Desenvolvedor Full-Stack com experiência em Python, Flask e desenvolvimento de dashboards interativos.
 
