@@ -6,7 +6,7 @@
 
 # 🧑🏻‍💻 Quem sou eu?
 
-Me chamo Diego Olinek, tenho 21 anos e sou natural de Santa Catarina. Atualmente, estou cursando Sistemas de Informação na UDESC. Sou um Desenvolvedor Full-Stack com experiência em Python, Flask e desenvolvimento de dashboards interativos.
+Me chamo Diego Olinek, tenho 22 anos e sou natural de Santa Catarina. Atualmente, estou cursando Sistemas de Informação na UDESC. Sou um Desenvolvedor Full-Stack com experiência em Python, Flask e desenvolvimento de dashboards interativos.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/diegoolinek/">
