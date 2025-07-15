@@ -4,9 +4,11 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=011627&text=Diego%20Olinek&section=header&textBg=false&fontColor=fff&reversal=true&animation=fadeIn&descSize=20&desc=Full-Stack%20Developer&descAlign=50&descAlignY=55&fontAlignY=35"
 />
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 # 🧑🏻‍💻 Quem sou eu?
 
-Me chamo Diego Olinek, tenho 22 anos e sou natural de Santa Catarina. Atualmente, estou cursando Sistemas de Informação na UDESC. Sou um Desenvolvedor Full-Stack com experiência em Python, Flask e desenvolvimento de dashboards interativos.
+Me chamo Diego Olinek, tenho 22 anos e sou natural de Santa Catarina. Atualmente, estou cursando Sistemas de Informação na UDESC. Sou um Desenvolvedor Full-Stack com experiência em Python, Flask, Django, React e desenvolvimento de dashboards interativos.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/diegoolinek/">
@@ -59,6 +61,22 @@ Me chamo Diego Olinek, tenho 22 anos e sou natural de Santa Catarina. Atualmente
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
 />
 <img 
     align="left" 
