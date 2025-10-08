@@ -6,37 +6,36 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-# 🧑🏻‍💻 Quem sou eu?
-
-Me chamo Diego Olinek, tenho 22 anos e sou natural de Santa Catarina. Atualmente, estou cursando Sistemas de Informação na UDESC. Sou um Desenvolvedor Full-Stack com experiência em Python, Flask, Django, React e desenvolvimento de dashboards interativos.
+# 🧑🏻‍💻 Who am I?
+I'm Diego Olinek, a 22-year-old Full-Stack Developer from Santa Catarina, Brazil. Currently pursuing a degree in Information Systems at UDESC, I specialize in Python, Django, Flask, React, and building interactive dashboards.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/diegoolinek/">
         <img 
             alt="LinkedIn" 
-            title="Dê uma olhada no meu LinkedIn" 
+            title="Check out my LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-blue?style=for-the-badge&logoColor=white"
         />
     </a>
     <a href="https://devdiego.com.br">
         <img 
-            alt="Repositório" 
-            title="Dê uma olhada no meu repositório" 
-            src="https://custom-icon-badges.demolab.com/badge/-Meu%20Repositório-red?style=for-the-badge&logoColor=white&logo=repo"
+            alt="Portifolio" 
+            title="Check out my portfolio" 
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Portifolio-red?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
     <a href="https://github.com/diegoolinek?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/diegoolinek?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total stars" 
+            title="Total GitHub stars" 
+            src="https://custom-icon-badges.demolab.com/github/stars/diegoolinek?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/diegoolinek?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/diegoolinek?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/diegoolinek?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
     
@@ -44,7 +43,7 @@ Me chamo Diego Olinek, tenho 22 anos e sou natural de Santa Catarina. Atualmente
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -157,14 +156,14 @@ Me chamo Diego Olinek, tenho 22 anos e sou natural de Santa Catarina. Atualmente
 
 ---
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoolinek&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoolinek&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
