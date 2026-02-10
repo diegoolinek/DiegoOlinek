@@ -179,7 +179,7 @@ I'm Diego Olinek, a 22-year-old Backend Developer from Santa Catarina, Brazil. C
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoolinek&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=diegoolinek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
   />
 
 </p>
